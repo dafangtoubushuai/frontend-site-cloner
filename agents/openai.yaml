@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Site Cloner"
+  short_description: "Clone sites with walkthroughs and task tables."
+  default_prompt: "Use $frontend-site-cloner to walk this site, document every reachable interaction and blocker, then build and verify a local frontend clone."
